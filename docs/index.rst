@@ -7,7 +7,7 @@ Welcome to Example's documentation!
 
 TESTTESTTEST
 
-from doc directory
+from docs directory
 
 ===================================
 
